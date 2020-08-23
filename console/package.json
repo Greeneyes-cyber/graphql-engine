@@ -214,7 +214,7 @@
     "fork-ts-checker-webpack-plugin": "4.0.5",
     "husky": "4.2.3",
     "ignore-loader": "0.1.2",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "json-loader": "0.5.7",
     "less-loader": "4.1.0",
     "lint-staged": "6.1.1",
